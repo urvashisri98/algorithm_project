@@ -1,0 +1,8 @@
+.design-container {
+  background-color: #f6f6fd;
+  padding: 20px 20px 80px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
